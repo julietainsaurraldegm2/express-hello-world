@@ -13,12 +13,12 @@ const html = `
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Hello from Render!</title>
+    <title>Hello from Juli!</title>
     <script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.5.1/dist/confetti.browser.min.js"></script>
     <script>
       setTimeout(() => {
         confetti({
-          particleCount: 100,
+          particleCount: 500,
           spread: 70,
           origin: { y: 0.6 },
           disableForReducedMotion: true
